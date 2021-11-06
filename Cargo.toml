@@ -1,0 +1,11 @@
+[package]
+name = "breakable-block"
+version = "1.0.0"
+authors = ["Zacchary Dempsey-Plante <zacc@ztdp.ca>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zedseven/breakable-block"
+homepage = "https://github.com/zedseven/breakable-block"
+description = "A shim library for a stable implementation of what is proposed in RFC 2046."
+categories = ["rust-patterns", "no-std"]
+keywords = ["shim", "rfc", "break", "block"]
